@@ -1,7 +1,7 @@
 <p align="center"><img src="src/resources/images/RafaelCastro.png" width="600"/></p>
 <p align="center">
 <a href="https://linkedin.com/in/rafaelcastro62"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
-<a href="https://nickgabe.vercel.app"><img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
+<a href="https://rafactv.github.io/Meu-Portifolio/"><img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
 </p>
 <p align="center">👋 Heyyy! I'm Rafael Castro, a brazilian frontend developer.</p>
 
@@ -11,7 +11,7 @@
 * Rafael Castro, 22 years
 * Frontend Programmer
 * Currently studying C# for game development
-* 3 Years, 8 Months and 13 Days since I started programming
+* 3 Years, 6 Months and 13 Days since I started programming
 
 ## **Skills wall:**
 
@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/python-F73C7B?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/photoshop-393359?logo=adobe-photoshop&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/visual%20studio%20code-393359?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/C%2B%2B-F73C7B?logo=cplusplus&style=for-the-badge&logoColor=F2F2F2logoColor=%23A8B9CC"/>
 <img src="https://img.shields.io/badge/github%20pages-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/typescript-F73C7B?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/npm-393359?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
@@ -43,4 +44,13 @@
 
 <a href="https://github.com/RafaCtv/Flappy-Bird-Web">
     <img src="src/resources/images/flappy.png" />
+</a>
+<a href="https://github.com/RafaCtv/Projeto_web">
+    <img src="src/resources/images/FutApp.png" />
+</a>
+<a href="https://github.com/RafaCtv/Trab-Petrobras">
+    <img src="src/resources/images/Petrobras.png" />
+</a>
+<a href="https://github.com/RafaCtv/Trab-Petrobras">
+    <img src="src/resources/images/Estufa.png" />
 </a>
