@@ -40,6 +40,7 @@
 <img src="https://img.shields.io/badge/react-F73C7B?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/bootstrap-393359?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/Postgresql-4D4577?logo=postgresql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/Premiere%20Pro-4D4577?logo=adobepremierepro&style=for-the-badge&logoColor=F2F2F2"/>
 </p>
 
 ## **Recent projects:**
