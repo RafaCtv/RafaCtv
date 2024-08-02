@@ -3,13 +3,13 @@
 <a href="https://linkedin.com/in/rafaelcastro62"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <a href="https://rafactv.github.io/Meu-Portifolio/"><img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
 </p>
-<p align="center">👋 Heyyy! I'm Rafael Castro, a brazilian frontend developer.</p>
+<p align="center">👋 Heyyy! I'm Rafael Castro, a brazilian front-end developer.</p>
 
 
 ## About me
 
 * Rafael Castro, 22 years
-* Frontend Programmer
+* Front-end Programmer
 * Currently studying C# for game development
 * 3 Years, 6 Months and 13 Days since I started programming
 
