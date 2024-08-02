@@ -38,7 +38,9 @@
 <img src="https://img.shields.io/badge/express.js-393359?logo=express&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/jira-393359?logo=jira&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/react-F73C7B?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/bootstrap-393359?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/></p>
+<img src="https://img.shields.io/badge/bootstrap-393359?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/Postgresql-4D4577?logo=postgresql&style=for-the-badge&logoColor=F2F2F2"/>
+</p>
 
 ## **Recent projects:**
 
