@@ -54,6 +54,6 @@
 <a href="https://github.com/RafaCtv/Trab-Petrobras">
     <img src="src/resources/images/Petrobras.png" />
 </a>
-<a href="https://github.com/RafaCtv/Trab-Petrobras">
+<a href="https://github.com/RafaCtv/MarsGreenhouse">
     <img src="src/resources/images/Estufa.png" />
 </a>
