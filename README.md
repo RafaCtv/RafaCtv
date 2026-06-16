@@ -11,7 +11,7 @@
 * Rafael Castro, 22 years
 * Front-end Programmer
 * Currently studying C# for game development
-* 3 Years, 6 Months and 13 Days since I started programming
+* 4 Years, 6 Months and 13 Days since I started programming
 
 ## **Skills wall:**
 
