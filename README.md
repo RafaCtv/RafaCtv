@@ -3,7 +3,7 @@
 <a href="https://linkedin.com/in/rafaelcastro62"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <a href="https://rafactv.github.io/Meu-Portifolio/"><img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
 </p>
-<p align="center">👋 Heyyy! I'm Rafael Castro, a brazilian ful-stack developer.</p>
+<p align="center">👋 Heyyy! I'm Rafael Castro, a brazilian full-stack developer.</p>
 
 
 ## About me
